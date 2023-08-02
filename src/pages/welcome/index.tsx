@@ -2,7 +2,7 @@ function Welcome() {
   return (
     <header>
       <img src={logo} className="App-logo" alt="logo" />
-      <p>Hello world</p>
+      <p>Hello wdscdorld</p>
       <a
         className="App-link"
         href="https://reactjs.org"
