@@ -4,7 +4,7 @@ import "./App.css";
 
 function Header() {
   return (
-    <header>
+    <StyledHeader>
       <img src={logo} className="App-logo" alt="logo" />
       <p>Hello world</p>
       <a
